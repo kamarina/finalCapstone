@@ -1,0 +1,8 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+admin;Capstone project;complete capstone project;2024-01-16;2024-01-16;No
+admin;wash the dishes;Wash the dishes tonight;2024-01-18;2024-01-18;No
+kamarina;Apply for a job;Submit application before the deadline.;2024-01-25;2024-01-18;No
+kamarina;New task;Watch a movie;2025-12-09;2024-01-18;No
+Kia;Cook;Cook dinner;2024-01-21;2024-01-18;No
+kamarina;Go for a walk;Take a dog for a walk;2024-02-15;2024-01-31;Yes
+1;Hi;say Hi;2024-03-24;2024-02-03;No

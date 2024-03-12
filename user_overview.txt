@@ -1,0 +1,35 @@
+Total users: 7
+Total tasks: 8
+
+User: admin
+Total tasks assigned: 3
+Percentage of tasks assigned: 37.50%
+Percentage of completed tasks: 0.00%
+Percentage of uncompleted tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Kia
+Total tasks assigned: 1
+Percentage of tasks assigned: 12.50%
+Percentage of completed tasks: 0.00%
+Percentage of uncompleted tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Lisa
+Total tasks assigned: 0
+
+User: lk
+Total tasks assigned: 0
+
+User: Marina
+Total tasks assigned: 0
+
+User: kamarina
+Total tasks assigned: 4
+Percentage of tasks assigned: 50.00%
+Percentage of completed tasks: 25.00%
+Percentage of uncompleted tasks: 75.00%
+Percentage of overdue tasks: 25.00%
+
+User: 1
+Total tasks assigned: 0
